@@ -44,7 +44,7 @@ Open a terminal within VS Code (Terminal > New Terminal).
 
 Navigate to the directory where your Java file is located using the cd command (e.g., cd /path/to/your/java/program).
 
-Compile your Java program using the javac command followed by the filename
+Compile your Java program using the javac command followed by the filename. . . . . 
 
 
   
