@@ -6,3 +6,4 @@ System.out.println("Hello, Java.");
         /* Enter your code here. Print output to STDOUT. Your class should be named Solution. */
     }
 }
+.
